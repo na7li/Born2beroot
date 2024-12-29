@@ -1678,6 +1678,16 @@ To restart cron with ```sudo systemctl enable cron``` and ```sudo systemctl star
 ## Resources
 https://github.com/gemartin99/Born2beroot-Tutorial 
 <br>
+https://m4nnb3ll.medium.com/my-experience-with-the-born2beroot-project-42-ad19d738ad4f
+<br>
+https://miro.com/app/board/uXjVL0GfnVg=/
+<br>
+https://miro.com/app/board/uXjVPEVHTXk=/
+<br>
+https://miro.com/app/board/uXjVP37UxCE=/
+<br>
+https://lucid.app/lucidspark/0c8b88ea-4c0a-4584-adbf-5e549c21e666/edit?invitationId=inv_6f2b194b-a4fc-4d11-a34c-6183844db47c&page=0_0#
+<br>
 https://www.youtube.com/watch?v=73r3JbkCVy0
 <br>
 https://github.com/42-adbouras/Born2beroot-1337MED
@@ -1685,6 +1695,8 @@ https://github.com/42-adbouras/Born2beroot-1337MED
 https://github.com/pasqualerossi/Born2BeRoot-Guide
 <br>
 https://youtu.be/XpFsMB6FoOs?si=QHitKAyWcdslY08E
+<br>
+https://www.42tools.me/sheets/en/42sheets-born2beroot.html
 
 ## Tester
 https://github.com/gemartin99/Born2beroot-Tester
